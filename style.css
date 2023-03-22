@@ -1,0 +1,63 @@
+.field1 {
+
+    background-color: rgb(125, 231, 231);
+    border-radius: 10px;
+    
+}
+
+.field2 {
+
+    background-color: rgb(125, 231, 231);
+    border-radius: 10px;
+   
+}
+
+.field3 {
+
+    background-color: rgb(125, 231, 231);
+    border-radius: 10px;
+   
+}
+
+.field4 {
+
+    background-color: rgb(125, 231, 231);
+    border-radius: 10px;
+    
+}
+
+.field5 {
+
+    background-color: #7de7e7;
+    border-radius: 10px;
+    
+}
+
+.field6 {
+
+    background-color: rgb(125, 231, 231);
+    border-radius: 10px;
+    
+}
+
+.field7:hover {
+
+    background-color: #f62727;
+    text-transform: uppercase;
+
+}
+
+.field8:hover {
+
+    background-color: #272bf6;
+    text-transform: uppercase;
+
+}
+
+.field0:hover {
+
+    text-transform: lowercase;
+    border: #7de7e7;
+    border-color: #272bf6;
+
+}
